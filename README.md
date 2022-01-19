@@ -32,3 +32,6 @@ Jinseon Kang, Hyeongoo Kang, Rocky Kim | Dept of Computer Science and Engineerin
 <p align="center">
   플레이 화면
 </p>
+
+## 참조
+[Github Repo](https://github.com/krGoo/PickitProject)
